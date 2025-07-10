@@ -1,0 +1,1 @@
+The current project is an HTML-based website listing recipes. Once completed, I will show skills in HTML and git.
