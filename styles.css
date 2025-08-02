@@ -1,0 +1,53 @@
+
+* {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color:#F5F5DC
+}
+#title {
+    font-size: 50px;
+    color: #1F3623;
+    text-decoration: underline;
+}
+
+.rigatoni {
+    color: #989898;
+    width: 100px;
+    background-color: #4F6642;
+    margin: 18px auto;
+    padding: 20px 400px;
+    font-size: 25px;
+    border: 6px #1F3623 solid; 
+    a:visited {
+    color: #989898; 
+    }
+
+}
+
+.makhani {
+    color: #989898;
+    width: 100px;
+    background-color: #4F6642;
+    margin: 18px auto;
+    padding: 20px 400px;
+    font-size: 25px;
+    border: 6px #1F3623 solid; 
+    a:visited {
+    color: #989898; 
+    }
+}
+.tomkagai {
+    color: #989898;
+    width: 100px;
+    background-color: #4F6642;
+    margin: 18px auto;
+    padding: 20px 400px;
+    font-size: 25px;
+    border: 6px #1F3623 solid; 
+    a:visited {
+    color: #989898; 
+    }
+}
